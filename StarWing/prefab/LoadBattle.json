@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"presetID":1,"name":"LoadBattle","isPresetRoot":true},"compId":408,"child":[{"type":"Script","props":{"presetID":2,"enemy1":"@Prefab:prefab/battle/enemy/Enemy1008.prefab","runtime":"app/LoadBattle.ts"},"compId":409}],"loadList":["prefab/battle/enemy/Enemy1008.prefab"],"loadList3D":[]}
